@@ -1,0 +1,9 @@
+# Core dependencies for a simple La Liga match predictor
+numpy
+pandas
+scikit-learn
+
+# Optional (uncomment if you want plots and notebooks)
+# matplotlib
+# seaborn
+# jupyter
