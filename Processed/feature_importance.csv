@@ -1,0 +1,21 @@
+Feature,Importance
+is_home,0.074362546
+venue_encoded,0.07325529
+opponent_encoded,0.04370994
+attendance,0.037839144
+avg_poss_5,0.03746772
+avg_xgoal_diff,0.035523307
+points_5,0.03379312
+team_encoded,0.033555973
+avg_pk_acc,0.033505615
+avg_goal_diff,0.033430174
+form_5,0.03327468
+avg_xg_5,0.033010762
+opp formation_encoded,0.03275892
+avg_sh_5,0.03274588
+avg_pkatt_5,0.03274492
+avg_shot_acc,0.032523066
+formation_encoded,0.032414034
+avg_dist_5,0.03198212
+avg_xga_5,0.031509895
+avg_sot_5,0.031234914

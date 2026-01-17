@@ -1,0 +1,109 @@
+column,original_value,encoded_value
+team,Alaves,0
+team,Almeria,1
+team,Athletic Club,2
+team,Atletico Madrid,3
+team,Barcelona,4
+team,Cadiz,5
+team,Celta Vigo,6
+team,Eibar,7
+team,Elche,8
+team,Espanyol,9
+team,Getafe,10
+team,Girona,11
+team,Granada,12
+team,Huesca,13
+team,Las Palmas,14
+team,Leganes,15
+team,Levante,16
+team,Mallorca,17
+team,Osasuna,18
+team,Oviedo,19
+team,Rayo Vallecano,20
+team,Real Betis,21
+team,Real Madrid,22
+team,Real Sociedad,23
+team,Sevilla,24
+team,Valencia,25
+team,Valladolid,26
+team,Villarreal,27
+opponent,Alaves,0
+opponent,Almeria,1
+opponent,Athletic Club,2
+opponent,Atletico Madrid,3
+opponent,Barcelona,4
+opponent,Cadiz,5
+opponent,Celta Vigo,6
+opponent,Eibar,7
+opponent,Elche,8
+opponent,Espanyol,9
+opponent,Getafe,10
+opponent,Girona,11
+opponent,Granada,12
+opponent,Huesca,13
+opponent,Las Palmas,14
+opponent,Leganes,15
+opponent,Levante,16
+opponent,Mallorca,17
+opponent,Osasuna,18
+opponent,Oviedo,19
+opponent,Rayo Vallecano,20
+opponent,Real Betis,21
+opponent,Real Madrid,22
+opponent,Real Sociedad,23
+opponent,Sevilla,24
+opponent,Valencia,25
+opponent,Valladolid,26
+opponent,Villarreal,27
+venue,Away,0
+venue,Home,1
+formation,3-1-4-2,0
+formation,3-2-4-1,1
+formation,3-3-3-1,2
+formation,3-4-1-2,3
+formation,3-4-3,4
+formation,3-4-3◆,5
+formation,3-5-1-1,6
+formation,3-5-2,7
+formation,4-1-2-1-2◆,8
+formation,4-1-3-2,9
+formation,4-1-4-1,10
+formation,4-2-2-2,11
+formation,4-2-3-1,12
+formation,4-2-4-0,13
+formation,4-3-1-2,14
+formation,4-3-2-1,15
+formation,4-3-3,16
+formation,4-4-1-1,17
+formation,4-4-2,18
+formation,4-5-1,19
+formation,5-3-2,20
+formation,5-4-1,21
+opp formation,3-1-4-2,0
+opp formation,3-2-4-1,1
+opp formation,3-3-3-1,2
+opp formation,3-4-1-2,3
+opp formation,3-4-3,4
+opp formation,3-5-1-1,5
+opp formation,3-5-2,6
+opp formation,4-1-2-1-2,7
+opp formation,4-1-3-2,8
+opp formation,4-1-4-1,9
+opp formation,4-2-2-2,10
+opp formation,4-2-3-1,11
+opp formation,4-2-4-0,12
+opp formation,4-3-1-2,13
+opp formation,4-3-2-1,14
+opp formation,4-3-3,15
+opp formation,4-4-1-1,16
+opp formation,4-4-2,17
+opp formation,4-5-1,18
+opp formation,5-3-2,19
+opp formation,5-4-1,20
+day_of_week,Friday,0
+day_of_week,Monday,1
+day_of_week,Saturday,2
+day_of_week,Sunday,3
+day_of_week,Thursday,4
+day_of_week,Tuesday,5
+day_of_week,Wednesday,6

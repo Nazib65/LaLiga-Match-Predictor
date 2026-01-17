@@ -1,0 +1,19 @@
+Classification report for Random Forest
+Overall Metrics: 
+Accuracy: 0.4682 (46.82%)
+Precision: 0.4464
+Recall: 0.4682
+F1 Score (Macro): 0.4303
+F1 Score (Weighted): 0.4525
+Log Loss: 1.0231
+
+Per class performance:
+              precision    recall  f1-score   support
+
+        Loss       0.50      0.53      0.51       340
+        Draw       0.28      0.18      0.22       245
+         Win       0.51      0.62      0.56       344
+
+    accuracy                           0.47       929
+   macro avg       0.43      0.44      0.43       929
+weighted avg       0.45      0.47      0.45       929

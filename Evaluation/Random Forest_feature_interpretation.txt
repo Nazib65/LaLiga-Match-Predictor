@@ -1,0 +1,40 @@
+Top 10 MOST IMPORTANT FEATURES:
+
+1. avg_poss_5 (Importance: 0.0821) - Recent possession percentage
+
+2. attendance (Importance: 0.0727) - Match attendance (crowd support)
+
+3. opponent_encoded (Importance: 0.0659) - Quality/identity of opponent
+
+4. avg_xgoal_diff (Importance: 0.0614) - No description available
+
+5. avg_shot_acc (Importance: 0.0529) - No description available
+
+6. avg_dist_5 (Importance: 0.0528) - Recent average shot distance
+
+7. avg_xg_5 (Importance: 0.0523) - Recent expected goals (quality of chances created)
+
+8. avg_sh_5 (Importance: 0.0500) - Recent shooting volume
+
+9. avg_xga_5 (Importance: 0.0487) - Recent expected goals against (quality of chances conceded)
+
+10. team_encoded (Importance: 0.0422) - Quality/identity of team
+
+Feature Categories IN TOP 10:
+
+Recent Form: avg_poss_5, avg_xgoal_diff, avg_shot_acc, avg_dist_5, avg_xg_5, avg_sh_5, avg_xga_5
+
+Match context: attendance, opponent_encoded, team_encoded
+
+KEY INSIGHTS:
+
+1. Most Important Factor: avg_poss_5
+   Recent possession percentage
+   This single feature has 8.2% importance!
+
+2. Recent Form Dominates: 7 of top 10 features are form-based
+   The model heavily relies on recent performance trends.
+
+4. Opponent Quality: Ranked #3
+   Who you play against is more important than tactical details.
+

@@ -1,0 +1,43 @@
+Top 10 MOST IMPORTANT FEATURES:
+
+1. is_home (Importance: 0.0744) - Home advantage (1 = home, 0 = away)
+
+2. venue_encoded (Importance: 0.0733) - Specific stadium/venue
+
+3. opponent_encoded (Importance: 0.0437) - Quality/identity of opponent
+
+4. attendance (Importance: 0.0378) - Match attendance (crowd support)
+
+5. avg_poss_5 (Importance: 0.0375) - Recent possession percentage
+
+6. avg_xgoal_diff (Importance: 0.0355) - No description available
+
+7. points_5 (Importance: 0.0338) - No description available
+
+8. team_encoded (Importance: 0.0336) - Quality/identity of team
+
+9. avg_pk_acc (Importance: 0.0335) - No description available
+
+10. avg_goal_diff (Importance: 0.0334) - No description available
+
+Feature Categories IN TOP 10:
+
+Recent Form: avg_poss_5, avg_xgoal_diff, points_5, avg_pk_acc, avg_goal_diff
+
+Match context: is_home, venue_encoded, opponent_encoded, attendance, team_encoded
+
+KEY INSIGHTS:
+
+1. Most Important Factor: is_home
+   Home advantage (1 = home, 0 = away)
+   This single feature has 7.4% importance!
+
+2. Recent Form Dominates: 4 of top 10 features are form-based
+   The model heavily relies on recent performance trends.
+
+3. Home Advantage Matters: Ranked #1 (7.4%)
+   Playing at home significantly affects match outcomes.
+
+4. Opponent Quality: Ranked #3
+   Who you play against is more important than tactical details.
+

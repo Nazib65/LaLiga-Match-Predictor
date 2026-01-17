@@ -1,0 +1,19 @@
+Classification report for XGBoost
+Overall Metrics: 
+Accuracy: 0.4858 (48.58%)
+Precision: 0.4595
+Recall: 0.4858
+F1 Score (Macro): 0.4403
+F1 Score (Weighted): 0.4643
+Log Loss: 1.0721
+
+Per class performance:
+              precision    recall  f1-score   support
+
+        Loss       0.50      0.58      0.54       337
+        Draw       0.30      0.16      0.21       242
+         Win       0.53      0.63      0.57       339
+
+    accuracy                           0.49       918
+   macro avg       0.44      0.46      0.44       918
+weighted avg       0.46      0.49      0.46       918

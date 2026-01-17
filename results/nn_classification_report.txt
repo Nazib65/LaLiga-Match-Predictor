@@ -1,0 +1,24 @@
+Neural Network Classification Report
+Accuracy: 0.4760 (47.60%)
+
+F1-Score (Macro): 0.3759
+F1-Score (Weighted): 0.4119
+Precision (Weighted): 0.4295
+Recall (Weighted): 0.4760
+Log Loss: 1.0439
+
+Detailed Classification Report:
+              precision    recall  f1-score   support
+
+    Loss(-1)     0.4595    0.6736    0.5463       337
+     Draw(0)     0.2857    0.0165    0.0312       242
+      Win(1)     0.5024    0.6077    0.5501       339
+
+    accuracy                         0.4760       918
+   macro avg     0.4159    0.4326    0.3759       918
+weighted avg     0.4295    0.4760    0.4119       918
+
+Confusion Matrix:
+[[227   5 105]
+ [139   4  99]
+ [128   5 206]]
