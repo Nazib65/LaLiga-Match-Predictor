@@ -1,12 +1,33 @@
-# Core dependencies for a simple La Liga match predictor
-numpy
-pandas
-scikit-learn
-keras
-tensorflow
-matplotlib
-seaborn
-jupyter
-#For environment management
-virtualenv
-conda
+# Pinned to versions present in the development .venv (Python 3.12).
+# These are the versions the saved models in Models/ and results/ were
+# trained with — changing them may invalidate the pickled artifacts.
+
+# Core data / ML
+numpy==2.3.4
+pandas==2.3.3
+scipy==1.16.3
+scikit-learn==1.7.2
+xgboost==3.1.2
+optuna==4.6.0
+joblib==1.5.2
+
+# Deep learning
+tensorflow==2.20.0
+keras==3.13.0
+
+# Visualization (notebooks + evaluation scripts)
+matplotlib==3.10.7
+seaborn==0.13.2
+
+# API service
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+pydantic==2.10.4
+
+# Notebook tooling (optional for runtime, required to re-run notebooks)
+jupyter==1.1.1
+ipykernel==7.1.0
+
+# Tests
+pytest==8.3.4
+httpx==0.28.1

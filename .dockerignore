@@ -1,0 +1,17 @@
+# Don't ship the dev venv or notebooks into the image
+.venv/
+venv/
+notebooks/
+Evaluation/
+raw_data/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.git/
+.gitignore
+.idea/
+.vscode/
+*.md
+tests/
+.dockerignore
+Dockerfile

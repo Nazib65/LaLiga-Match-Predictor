@@ -1,6 +1,33 @@
+# Virtual envs
 .venv/
+venv/
+env/
+
+# Python caches
 __pycache__/
-*.ipynb_checkpoints/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs / env
 *.log
+.env
 *.env
-*.pkl
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build / dist
+build/
+dist/
+
+# NOTE: Trained model artifacts (*.pkl, *.keras) are intentionally tracked
+# so a fresh clone can serve predictions without retraining.
